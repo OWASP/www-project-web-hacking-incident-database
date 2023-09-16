@@ -1,6 +1,6 @@
 ---
 title: FAQ
-layout:  null
+layout: col-sidebar
 tab: true
 order: 2
 tags: faq-tag
