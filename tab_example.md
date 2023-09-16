@@ -1,5 +1,5 @@
 ---
-title: Example
+title: Example1
 layout: col-sidebar
 tab: true
 order: 3
