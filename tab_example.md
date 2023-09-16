@@ -1,6 +1,6 @@
 ---
 title: Example
-layout:  null
+layout: col-sidebar
 tab: true
 order: 3
 tags: example-tag
