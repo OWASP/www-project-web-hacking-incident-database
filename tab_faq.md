@@ -1,9 +1,10 @@
 ---
-title: FAQ
+title: faq
+displaytext: FAQ
 layout: col-sidebar
 tab: true
 order: 2
-tags: faq-tag
+tags: WHID
 ---
 ## What incidents are included in WHID?
 
