@@ -1,7 +1,6 @@
 ---
 title: faq
 displaytext: FAQ
-layout: col-sidebar
 tab: true
 order: 2
 tags: WHID
