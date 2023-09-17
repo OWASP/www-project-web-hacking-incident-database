@@ -1,10 +1,11 @@
 ---
-title: faq
-displaytext: FAQ
+title: FAQ
+layout: col-sidebar
 tab: true
 order: 2
-tags: WHID
+tags: faq-tag
 ---
+
 ## What incidents are included in WHID?
 
 WHID only tracks media reported security incidents that can be associated with a negative impact to a public web application (such as downtime, data leakage, planting of malware, etc...). We also try to limit the database only to targeted attacks, though the distinction between targeted and non-targeted attacks is grey.
