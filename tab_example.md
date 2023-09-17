@@ -2,7 +2,7 @@
 title: Example
 layout: col-sidebar
 tab: true
-order: 1
+order: 2
 tags: example-tag
 ---
 
