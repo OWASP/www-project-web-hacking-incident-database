@@ -3,9 +3,9 @@
 layout: col-sidebar
 title: OWASP Web Hacking Incident Database
 tags: example-tag
-level: 3
-type: 
-pitch: A very brief, one-line description of your project
+level: 
+type: documentation
+pitch: WHID tracks public news stories of web application compromises.
 
 ---
 
