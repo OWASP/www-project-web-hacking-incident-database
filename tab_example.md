@@ -3,7 +3,7 @@ title: FAQ
 layout: col-sidebar
 tab: true
 order: 2
-tags: WHID
+tags: whid
 ---
 
 ## What incidents are included in WHID?
