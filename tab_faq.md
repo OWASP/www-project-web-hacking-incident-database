@@ -1,6 +1,6 @@
 ---
 title: FAQ
-layout:  null
+layout: col-sidebar
 tab: true
 order: 1
 tags: WHID
