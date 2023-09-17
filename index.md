@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Web Hacking Incident Database
 tags: example-tag
-level: 2
+level: 3
 type: 
 pitch: A very brief, one-line description of your project
 
