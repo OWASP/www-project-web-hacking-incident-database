@@ -1,5 +1,5 @@
 ---
-title: Rxample
+title: Example
 layout: col-sidebar
 tab: true
 order: 2
