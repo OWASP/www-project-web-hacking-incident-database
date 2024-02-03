@@ -1,5 +1,5 @@
 ---
-title: Contribute
+title: Rxample
 layout: col-sidebar
 tab: true
 order: 2
