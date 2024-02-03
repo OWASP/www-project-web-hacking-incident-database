@@ -41,12 +41,3 @@ WHID includes "breaches" but not "disclosures". Breaches are incidents in which 
 ## The "Unknown" Attack Method
 
 Some of the incident attack methods are classified as "Unknown". You may wonder why were these incidents included in the list, as there is no way to know that the hacker exploited a web application vulnerability. In some cases the public information available indicates that the incident exploited a web application vulnerability, and in others we deducted from the available information.  This important inclusion criteria for WHID is a negative impact to a web application or its data.  Attack Method and Application Weakness may be listed as Unknown if those details are not available.
-
-## How can I contribute?
-
-You can help make WHID better. You don't need to invest a lot of time:
-
-* If you encounter a new Web incident, use the [WHID Submittal Form](https://docs.google.com/forms/d/e/1FAIpQLSdRxE1DqOsgKf_nMNwtb2vY3EBRKsBgc0-sBzVdj5zud0HwEQ/viewform?embedded=true&formkey=dHktV0FmWGMyTDZPbkZtOEJXNzhPbXc6MQ&pli=1)
-* As we speak English we miss alot in non English speaking countries so we are especially looking for non English sources. As long as they can be translated using Google translate of a similar service, we can include it.
-* If you want to contribute more, become a WHID editor. Send an e-mail to the project leaders with a few words (and preferably a link) about yourself and sign up to this site. We will activate your account and enable you to edit incidents. We need you to:
-add past incidents. 
