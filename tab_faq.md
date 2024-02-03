@@ -4,7 +4,7 @@ displaytext: FAQ
 layout: col-sidebar
 tab: true
 order: 2
-tags: WHID
+tags: example-tag
 ---
 
 ## What incidents are included in WHID?
