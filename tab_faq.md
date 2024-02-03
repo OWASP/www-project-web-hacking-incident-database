@@ -1,5 +1,5 @@
 ---
-title: example
+title: FAQ
 displaytext: FAQ
 layout: col-sidebar
 tab: true
