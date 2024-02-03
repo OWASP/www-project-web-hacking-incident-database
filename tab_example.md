@@ -3,7 +3,7 @@ title: example
 displaytext: How To Contribute
 layout: col-sidebar
 tab: true
-order: 2
+order: 3
 tags: example-tag
 ---
 
