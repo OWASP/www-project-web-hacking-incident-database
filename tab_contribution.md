@@ -1,5 +1,5 @@
 ---
-title: How To Contribute
+title: How_To_Contribute
 layout: col-sidebar
 tab: true
 order: 2
