@@ -1,5 +1,6 @@
 ---
-title: FAQ
+title: example
+displaytext: FAQ
 layout: col-sidebar
 tab: true
 order: 1
