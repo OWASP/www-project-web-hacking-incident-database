@@ -2,8 +2,8 @@
 title: How To Contribute
 layout: col-sidebar
 tab: true
-order: 3
-tags: econtribution-tag
+order: 2
+tags: contribution-tag
 ---
 
 ## How can I contribute?
