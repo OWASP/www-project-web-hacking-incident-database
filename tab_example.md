@@ -1,5 +1,6 @@
 ---
-title: How To Contribute
+title: how_to_contribute
+displaytext: How To Contribute
 layout: col-sidebar
 tab: true
 order: 2
