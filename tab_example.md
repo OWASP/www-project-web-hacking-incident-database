@@ -1,5 +1,5 @@
 ---
-title: how_to_contribute
+title: example
 displaytext: How To Contribute
 layout: col-sidebar
 tab: true
