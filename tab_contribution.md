@@ -1,9 +1,9 @@
 ---
-title: How_To_Contribute
+title: Contribute
 layout: col-sidebar
 tab: true
 order: 2
-tags: contribution-tag
+tags: example-tag
 ---
 
 ## How can I contribute?
