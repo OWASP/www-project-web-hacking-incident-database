@@ -1,0 +1,25 @@
+audience:
+  - builder
+  - defender
+leaders:
+  - name: Ryan Barnett
+    email: ryan.barnett@owasp.org
+    github: rcbarnett
+  - name: 4ng3l hacker
+    email: 4ng3lhacker@gmail.com
+    github: 4ng3lhacker
+level: 2
+name: OWASP Web Hacking Incident Database
+pitch: WHID tracks public news stories of web application compromises.
+repositories:
+  - name: www-project-web-hacking-incident-database
+    url: https://github.com/OWASP/www-project-web-hacking-incident-database
+    description: OWASP Foundation Web Repository
+  - name: owasp-whid
+    url: https://github.com/OWASP/owasp-whid
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-web-hacking-incident-database
